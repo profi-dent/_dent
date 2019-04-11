@@ -1,34 +1,34 @@
-- name: Britta Perry
+- name: Гаджимамедов Арслан Рамазанович
   image: team.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Troy Barnes 
+- name: Лебедева-Чепурнова Алина Владимировна 
   image: team.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Annie
+- name: Фабио
   image: team.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Jeff Winger
+- name: Пилипчук Ольга Борисовна
   image: team.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+# - name: Britta Perry
+#   image: team.jpg
+#   email: email@gmail.com
+#   phone: 9659 43 21
 
-- name: Troy Barnes
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+# - name: Troy Barnes
+#   image: team.jpg
+#   email: email@gmail.com
+#   phone: 9659 43 21
 
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+# - name: Annie
+#   image: team.jpg
+#   email: email@gmail.com
+#   phone: 9659 43 21
