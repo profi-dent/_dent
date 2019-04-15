@@ -1,22 +1,22 @@
 - name: Гаджимамедов А. Р.
   image: team1.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  # email: email@gmail.com
+  # phone: 9659 43 21
 
 - name: Лебедева-Чепурнова А. В. 
   image: team3.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  # email: email@gmail.com
+  # phone: 9659 43 21
 
 - name: Фабио
   image: team4.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  # email: email@gmail.com
+  # phone: 9659 43 21
 
 - name: Пилипчук О. Б.
   image: team2.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  # email: email@gmail.com
+  # phone: 9659 43 21
 
 # - name: Britta Perry
 #   image: team.jpg

@@ -1,8 +1,8 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: СК "ПрофиДент" | Клиника, которой доверяют.
+description: "Стоматологическая клиника в Москве."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "profi-dent.github.io" # the name of your domain
+url: "dental-clinic.pro" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
@@ -37,9 +37,9 @@ testimonials:
 #     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
+facebook: 
 # twitter: http://twitter.com
-instagram: http://instagram.com
+instagram: 
 # youtube: http://youtube.com
 # skype: skype:obaez_design?userinfo
 feed: yes
